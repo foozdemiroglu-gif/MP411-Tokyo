@@ -1,0 +1,3 @@
+scenario,nodes,edges,total_edge_length_km,connected_components,largest_component_nodes,largest_component_node_share_percent,largest_component_edge_length_km,largest_component_length_share_percent,nodes_outside_largest_component,isolated_nodes
+baseline,3984,6352,680.8224679756545,6,3972,99.69879518072288,676.3068903,99.33674667395304,12,0
+heavy_rain_flood,3984,3850,441.9607246146532,1185,2203,55.29618473895582,341.04528804817807,77.16642431191967,1781,1099

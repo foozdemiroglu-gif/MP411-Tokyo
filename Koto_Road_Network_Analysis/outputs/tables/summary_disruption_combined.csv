@@ -1,0 +1,7 @@
+disruption_class,number_of_segments,total_length_m,total_length_km,percentage_of_total_length
+severe_disruption_likely_impassable,2492,224971.3062,224.9713062,33.04404846
+no_relevant_flooding,1313,151892.0074,151.8920074,22.31007561
+reduced_accessibility,1159,101455.6473,101.4556473,14.90192408
+minor_disruption,1183,100300.6934,100.3006934,14.73228311
+special_case_bridge_or_elevated,195,88312.37648,88.31237648,12.9714251
+high_risk_tunnel_or_underpass,10,13890.43712,13.89043712,2.040243642

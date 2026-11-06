@@ -1,0 +1,3 @@
+flood_status,number_of_segments,total_length_m,total_length_km,percentage_of_total_length
+not_relevantly_flooded,1313,151892.0074,151.8920074,22.31007561
+flooded_0_1m_or_more,5039,528930.4606,528.9304606,77.68992439
